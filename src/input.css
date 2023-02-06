@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.circle-icon {
+    height: 1.75rem;
+    width: 1.75rem;
+    border-radius: 9999px;
+    
+}
